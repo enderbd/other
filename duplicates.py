@@ -78,7 +78,7 @@ for i in folders:
 
 #printResults(dups)
 deleteDup(dups)
-
+print("asdasdasd")
 
 # if __name__ == '__main__':
 #     if len(sys.argv) > 1:
